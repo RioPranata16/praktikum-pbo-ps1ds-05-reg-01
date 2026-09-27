@@ -3,9 +3,8 @@
 Repositori ini adalah tempat pengumpulan tugas dan laporan praktikum Pemrograman Berorientasi Objek (PBO) berbasis Java.
 
 ## Identitas Praktikan
-Silakan ganti teks di dalam kurung siku dengan identitas Anda:
-- **Nama Lengkap:** [Isi Nama Lengkap Anda di sini]
-- **NIM:** [Isi NIM Anda di sini]
+- **Nama Lengkap: I Kadek Rio Adi Pranata Kusuma [Isi Nama Lengkap Anda di sini]
+- **NIM: 103132400029 [Isi NIM Anda di sini]
 
 ## Struktur Direktori
 
